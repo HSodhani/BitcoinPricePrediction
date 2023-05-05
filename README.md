@@ -33,4 +33,4 @@ After training and testing the models, we found that the Support Vector Machine 
 In conclusion, we have demonstrated how to use three different machine learning algorithms to predict the price of Bitcoin. We found that the Support Vector Machine algorithm outperformed both Linear Regression and Polynomial Regression in terms of accuracy. However, it is important to note that the performance of these models may vary depending on the dataset and time period used. This project serves as a starting point for further exploration into Bitcoin price prediction using machine learning.
 
 # Contributors
-- Rucha Chotalia 
+- Rucha Chotalia (https://github.com/Ruchachotalia)
