@@ -2,7 +2,7 @@
 
 In this project, we use three different machine learning algorithms - Linear Regression, Polynomial Regression, and Support Vector Machine - to predict the price of Bitcoin. The aim of this project is to compare the performance of the different models and identify the best algorithm for predicting Bitcoin prices.
 
-# Data
+# Dataset
 The data used in this project is taken from [kaggle](https://www.kaggle.com/datasets/hardiksodhani/bitcoinprice "kaggle"). It consists of the per minute price of Bitcoin from 2017 to March 3, 2022. We will use this data to train our models and make predictions on future Bitcoin prices.
 
 # Prerequisites
